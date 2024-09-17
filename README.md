@@ -1,4 +1,6 @@
-## Hi there 👋
+## this place is a work in progress
+
+- mostly just doing trial and error for now
 
 <!--
 **idkmyg/idkmyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
